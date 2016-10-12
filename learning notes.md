@@ -24,3 +24,5 @@ mvn jetty:run
 
 
 * RAML
+
+是一种RESTful API 建模语言(RESTful API Modeling Language :RAML)， 它鼓励重用 激活发现和模式分享，定位在最佳实践的最优实现。
