@@ -11,3 +11,16 @@ Rest Service特点：
 能够利用Cache机制增进性能;
 层次化的系统;
 随需代码.
+
+* mvn命令行
+
+1. mvn clean install
+To build the project, including compiling all sources, processing resources, and bundling the project, use the following Maven command:
+mvn clean install
+
+2. mvn jetty:run
+The project is preconfigured for execution in an embedded Jetty Servlet container. To run the new service, run the following command:
+mvn jetty:run
+
+
+* RAML
