@@ -29,6 +29,8 @@ http://raml.org/developers/raml-100-tutorial
 
 是一种RESTful API 建模语言(RESTful API Modeling Language :RAML)， 它鼓励重用 激活发现和模式分享，定位在最佳实践的最优实现。
 
+type: collection:They are usually applied to a collection REST resource, such as getting a list of items, and posting one single item.
+
 * JSON Schema  
 
 http://json-schema.org/
